@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#07101d"/><stop offset=".5" stop-color="#0b1930"/><stop offset="1" stop-color="#071b1a"/></linearGradient></defs>
+<rect width="1600" height="900" fill="url(#g)"/>
+<g fill="none" stroke="#54e2c0" opacity=".15">
+<path d="M0 680 C300 400 520 800 820 520 S1250 250 1600 520"/><path d="M0 720 C330 450 560 850 850 570 S1280 300 1600 560"/>
+<circle cx="1180" cy="270" r="190"/><circle cx="1180" cy="270" r="240"/>
+</g><g fill="#7c91ff" opacity=".25"><circle cx="250" cy="210" r="3"/><circle cx="520" cy="420" r="4"/><circle cx="900" cy="170" r="3"/><circle cx="1370" cy="610" r="4"/></g>
+<text x="80" y="150" fill="#b9c7e8" opacity=".18" font-family="monospace" font-size="42">const shorten = async (url) =&gt; MongoDB.index(url)</text>
+<text x="80" y="220" fill="#65e0bf" opacity=".12" font-family="monospace" font-size="24">/api/shorten   /s/:code   express()   mongodb   JSON</text>
+</svg>
